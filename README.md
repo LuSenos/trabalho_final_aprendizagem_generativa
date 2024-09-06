@@ -1,1 +1,1 @@
-# trabalho_final_aprendizagem_generativa
+# trabalho final aprendizagem generativa
